@@ -1,2 +1,2 @@
-# Working-with-Excel-Sheets
-This Repository contains code for the blog post on how to extract information from Excel sheets
+# Python Hacks
+This Repository contains code snippets for the blog posts on how various python hacks 
